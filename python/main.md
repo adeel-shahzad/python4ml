@@ -1,0 +1,1 @@
+## __name__; A special variable
